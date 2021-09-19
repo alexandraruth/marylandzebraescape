@@ -2,7 +2,7 @@
 
 In September 2021, a dazzle of zebras (or a zeal of zebras, depending on your plural noun preference!) was reported in Prince George's County in Maryland. The reported count of zebras on the loose increased over several days. As of today (9/18) the zebras are still at large. The code in this repository plots the increasing reported zebra count from media outlets.
 
-(/ is an excuse for me to learn how to embed zebra emojis in ggplot)
+(& is an excuse for me to learn how to embed zebra emojis in ggplot)
 
 
 **Zebra count sources:**
